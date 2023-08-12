@@ -1,30 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayOne\\DayOne.csproj": {}
+    "/Users/dylan/code/advent-of-code/2022/DayOne/DayOne.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayOne\\DayOne.csproj": {
+    "/Users/dylan/code/advent-of-code/2022/DayOne/DayOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayOne\\DayOne.csproj",
+        "projectUniqueName": "/Users/dylan/code/advent-of-code/2022/DayOne/DayOne.csproj",
         "projectName": "DayOne",
-        "projectPath": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayOne\\DayOne.csproj",
-        "packagesPath": "C:\\Users\\ddoucet\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayOne\\obj\\",
+        "projectPath": "/Users/dylan/code/advent-of-code/2022/DayOne/DayOne.csproj",
+        "packagesPath": "/Users/dylan/.nuget/packages/",
+        "outputPath": "/Users/dylan/code/advent-of-code/2022/DayOne/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ddoucet\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/dylan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -57,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
