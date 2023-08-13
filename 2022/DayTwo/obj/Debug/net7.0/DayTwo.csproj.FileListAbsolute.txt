@@ -1,0 +1,14 @@
+/Users/dylan/code/advent-of-code/2022/DayTwo/bin/Debug/net7.0/DayTwo
+/Users/dylan/code/advent-of-code/2022/DayTwo/bin/Debug/net7.0/DayTwo.deps.json
+/Users/dylan/code/advent-of-code/2022/DayTwo/bin/Debug/net7.0/DayTwo.runtimeconfig.json
+/Users/dylan/code/advent-of-code/2022/DayTwo/bin/Debug/net7.0/DayTwo.dll
+/Users/dylan/code/advent-of-code/2022/DayTwo/bin/Debug/net7.0/DayTwo.pdb
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.AssemblyInfoInputs.cache
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.AssemblyInfo.cs
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.csproj.CoreCompileInputs.cache
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.dll
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/refint/DayTwo.dll
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.pdb
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/DayTwo.genruntimeconfig.cache
+/Users/dylan/code/advent-of-code/2022/DayTwo/obj/Debug/net7.0/ref/DayTwo.dll
