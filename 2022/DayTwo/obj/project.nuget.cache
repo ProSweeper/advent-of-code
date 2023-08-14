@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aa8gEh1MgAhz1CEqSqeQXd2w6WsqhUjyrat4/vZkTeWlk9rWhww+mIISf2IKP4svh7y4DnS0hmdCqVpmw9JXRA==",
+  "dgSpecHash": "+ySFRV8C/Gyr7WkqPH8VF4rB32AgvEa6CeRgVILAxuRHGqHOFsHeg5Fp4JNxFZ/se+LkNgdBwfA/yJjKOuZvvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
+  "projectFilePath": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
