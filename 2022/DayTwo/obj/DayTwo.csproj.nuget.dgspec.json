@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj": {}
+    "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj": {
+    "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
+        "projectUniqueName": "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
         "projectName": "DayTwo",
-        "projectPath": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
+        "projectPath": "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\DayTwo.csproj",
         "packagesPath": "C:\\Users\\ddoucet\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\obj\\",
+        "outputPath": "C:\\Users\\ddoucet\\code\\advent-of-code\\2022\\DayTwo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,15 @@
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\bin\Debug\net7.0\DayTwo.exe
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\bin\Debug\net7.0\DayTwo.deps.json
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\bin\Debug\net7.0\DayTwo.runtimeconfig.json
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\bin\Debug\net7.0\DayTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\bin\Debug\net7.0\DayTwo.pdb
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.csproj.AssemblyReference.cache
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.AssemblyInfoInputs.cache
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.AssemblyInfo.cs
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.csproj.CoreCompileInputs.cache
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\refint\DayTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.pdb
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\DayTwo.genruntimeconfig.cache
+C:\Users\ddoucet\code\advent-of-code\2022\DayTwo\obj\Debug\net7.0\ref\DayTwo.dll
