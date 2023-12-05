@@ -1,0 +1,15 @@
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\bin\Debug\net8.0\partTwo.exe
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\bin\Debug\net8.0\partTwo.deps.json
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\bin\Debug\net8.0\partTwo.runtimeconfig.json
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\bin\Debug\net8.0\partTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\bin\Debug\net8.0\partTwo.pdb
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.AssemblyInfoInputs.cache
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.AssemblyInfo.cs
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.csproj.CoreCompileInputs.cache
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.sourcelink.json
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\refint\partTwo.dll
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.pdb
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\partTwo.genruntimeconfig.cache
+C:\Users\ddoucet\code\advent-of-code\2023\DayOnePart2\partTwo\obj\Debug\net8.0\ref\partTwo.dll
